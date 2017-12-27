@@ -1,6 +1,7 @@
 [![npm](https://img.shields.io/npm/v/ganache-cli.svg)]()
 [![npm](https://img.shields.io/npm/dm/ganache-cli.svg)]()
 [![Build Status](https://travis-ci.org/trufflesuite/ganache-cli.svg?branch=master)](https://travis-ci.org/trufflesuite/ganache-cli)
+*NOTICE*: `testrpc` is now `ganache-cli`. Use it just as you would `testrpc`.
 
 <p align="center">
   <img src="https://github.com/ethereumjs/testrpc/blob/ganache-cli/resources/icons/ganache-cli-128x128.png?raw=true">
@@ -13,7 +14,7 @@ Ganache CLI uses ethereumjs to simulate full client behavior and make developing
 
 ### Looking for TestRPC?
 
-If you came here expecting to find the TestRPC, you're in the right place! Truffle has taken the TestRPC under its wing and made it part of the Truffle suite of tools. From now on you can expect better support along with tons of new features that help make Ethereum development safer, easier, and more enjoyable.
+If you came here expecting to find the TestRPC, you're in the right place! Truffle has taken the TestRPC under its wing and made it part of the Truffle suite of tools. From now on you can expect better support along with tons of new features that help make Ethereum development safer, easier, and more enjoyable. Use `ganache-cli` just as you would `testrpc`. 
 
 ### Installation
 
